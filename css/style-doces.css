@@ -24,8 +24,14 @@ header{
     padding: 20px 0;
 }
 
-.logo{
-    width: 50%;
+.doce{
+    margin-top: -30px;
+    width:10%;
+}
+
+.doce-festa{
+    margin-top: 30px;
+    width:10%;
 }
 
 .menu {
@@ -72,13 +78,27 @@ section.sobre{
 .doces{
     margin-top: 30px;
     padding-top: 10px;
+    width:20%;
+    text-align: right;
+}
+
+.festa{
+    margin-top: 80px;
+    padding-top: 10px;
+    width:60%;
+    text-align: right;
+}
+
+.cone{
+    margin-top: 80px;
+    padding-top: 10px;
     width:60%;
     text-align: right;
 }
 
 .texto-sobre{
     position: relative;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 .texto-sobre h3{
     margin-top: 40px;
